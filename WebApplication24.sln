@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication24", "WebApplication24\WebApplication24.csproj", "{98B975C8-36BA-4A9F-BB85-D327E5AD9FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUpload.Data", "ImageRepository\FileUpload.Data.csproj", "{9091B638-6C01-4795-9A89-0ADF45D68253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B975C8-36BA-4A9F-BB85-D327E5AD9FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B975C8-36BA-4A9F-BB85-D327E5AD9FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B975C8-36BA-4A9F-BB85-D327E5AD9FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B975C8-36BA-4A9F-BB85-D327E5AD9FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9091B638-6C01-4795-9A89-0ADF45D68253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9091B638-6C01-4795-9A89-0ADF45D68253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9091B638-6C01-4795-9A89-0ADF45D68253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9091B638-6C01-4795-9A89-0ADF45D68253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E0B1EEF-914F-4AC7-8A54-969A595E1A34}
+	EndGlobalSection
+EndGlobal
